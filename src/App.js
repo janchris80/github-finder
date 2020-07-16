@@ -1,8 +1,6 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import './App.css';
 import Navbar from './components/layout/Navbar';
-import Users from './components/users/Users';
-import Search from './components/users/Search';
 import Alert from './components/layout/Alert';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import About from './components/pages/About';
